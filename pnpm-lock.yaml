@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  bootstrap-icons: ^1.10.5
+
+dependencies:
+  bootstrap-icons: 1.10.5
+
+packages:
+
+  /bootstrap-icons/1.10.5:
+    resolution: {integrity: sha512-oSX26F37V7QV7NCE53PPEL45d7EGXmBgHG3pDpZvcRaKVzWMqIRL9wcqJUyEha1esFtM3NJzvmxFXDxjJYD0jQ==}
+    dev: false
